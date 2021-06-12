@@ -1,9 +1,7 @@
 
 # ⚓ Webhook exercise
 
-Developed during Internet technologies 2020/21L course at Adam Mickiewicz University.
-Integrated with [https://github.com/korzepadawid/webhook-integration-cra](https://github.com/korzepadawid/webhook-integration-cra).
-  
+Developed during Internet technologies 2020/21L course at Adam Mickiewicz University.  
 
 ## 🎯 Task's aim
 
